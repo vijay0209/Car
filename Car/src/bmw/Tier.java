@@ -6,6 +6,7 @@ public class Tier {
 		// TODO Auto-generated method stub
 		int a = 10;
 		int b=20;
+		int v=30;
 	}
 
 }
